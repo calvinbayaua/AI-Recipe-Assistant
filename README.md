@@ -8,9 +8,9 @@ This project was built while following [Scrimba's Learn React Course](https://sc
 
 
 ## 🛠️ Tech Stack
-- **Frontend:** React, HTML, CSS, javascript
+- **Frontend:** React, HTML, CSS, JavaScript
 - **AI Integration:** [Mixtral-8x7B](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1)
-- **State Management:** React Hooks (`useState`, `useEffect`)
+- **State Management:** React Hooks (`useState`)
 
 
 ## 🎯 How It Works
