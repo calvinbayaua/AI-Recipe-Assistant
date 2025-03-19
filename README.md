@@ -14,10 +14,10 @@ This project was built while following [Scrimba's Learn React Course](https://sc
 
 
 ## 🎯 How It Works
-- Enter the ingredients you have.
-- Click Generate Recipe.
-- AI processes the ingredients and returns a recipe.
-- Follow the instructions to cook your meal!
+1. Enter the ingredients you have.
+2. Click Generate Recipe.
+3. AI processes the ingredients and returns a recipe.
+4. Follow the instructions to cook your meal!
 
 
 ## 📦 Installation & Setup
