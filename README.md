@@ -22,10 +22,10 @@ This project was built while following [Scrimba's Learn React Course](https://sc
 
 ## 📦 Installation & Setup
 1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/calvinbayaua/AI-Recipe-Assistant.git
-   cd AI-Recipe-Assistant
-   ```
+  ```sh
+  git clone https://github.com/calvinbayaua/AI-Recipe-Assistant.git
+  cd AI-Recipe-Assistant
+  ```
 2. **Install dependencies:**
   ```sh
   npm install
@@ -35,6 +35,6 @@ This project was built while following [Scrimba's Learn React Course](https://sc
   VITE_HF_API_KEY="your_api_key_here"
   ```
 4. **Start the development server:**
-   ```sh
-   npm run dev
-   ```
+  ```sh
+  npm run dev
+  ```
